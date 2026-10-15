@@ -14,5 +14,5 @@ The game has only fullscreen mode.
 
 To start, execute:
 ```
-python3 main.py
+python3 src/main.py
 ```
